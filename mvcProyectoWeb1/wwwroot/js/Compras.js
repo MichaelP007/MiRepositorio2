@@ -19,8 +19,9 @@ function cargarDatatable() {
             { "data": "precioCompra", "width": "15%" }, 
             { "data": "fechaCompra", "width": "15%" }, 
             {
-                "data": "Id",
+                "data": "id",
                 "render": function (data) {
+                    
                     return `<div class="text-center">
                         <a href="/Admin/Compra/Edit/${data}" class="btn btn-success text-white" style="cursor:pointer; width:140px;">
                         <i class="far fa-edit"></i> Editar
@@ -72,6 +73,7 @@ function Delete(url) {
             type: 'DELETE',
             url: url,
             success: function (data) {
+                console.log(data); // Agregar esta línea para verificar el valor de data
                 if (data.success) {
                     toastr.success(data.message);
                     dataTable.ajax.reload();

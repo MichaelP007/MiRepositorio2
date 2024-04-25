@@ -78,7 +78,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpDelete]
 
-        //[Authorize(Roles = "admin")]
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Compra.Get(id);
