@@ -1,11 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using mvcProyectoWeb1.AccesoDatos.Data.Repository.IRepository;
 using mvcProyectoWeb1.Models;
 
 namespace mvcProyectoWeb1.Areas.Admin.Controllers
 {
-
-    [Area("Admin")]
+    //[Authorize(Roles = "admin")]
+    [Area("admin")]
     public class CategoriaController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
@@ -20,12 +21,14 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View();
         }
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Create(Categoria categoria)
         {
             if (ModelState.IsValid)
@@ -39,6 +42,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View(categoria);
         }
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(int id)
         {
             Categoria categoria = new Categoria();
@@ -52,6 +56,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(Categoria categoria)
         {
 
@@ -70,6 +75,8 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return Json(new { data = _contenedorTrabajo.Categoria.GetAll() });
         }
         [HttpDelete]
+        
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Categoria.Get(id);

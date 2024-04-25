@@ -1,11 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using mvcProyectoWeb1.AccesoDatos.Data.Repository.IRepository;
 using mvcProyectoWeb1.Models;
 
 namespace mvcProyectoWeb1.Areas.Admin.Controllers
 {
 
-    [Area("Admin")]
+    [Area("admin")]
     public class CompraController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
@@ -20,12 +21,15 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View();
         }
         [HttpGet]
+
+        [Authorize(Roles = "admin")]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Create(Compra compra)
         {
             if (ModelState.IsValid)
@@ -39,6 +43,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View(compra);
         }
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(int id)
         {
             Compra compra = new Compra();
@@ -52,6 +57,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(Compra compra)
         {
 
@@ -65,11 +71,14 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         #region llamadas a la api
         [HttpGet]
+        
         public IActionResult GetAll()
         {
             return Json(new { data = _contenedorTrabajo.Compra.GetAll() });
         }
         [HttpDelete]
+
+        //[Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Compra.Get(id);
@@ -81,6 +90,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             _contenedorTrabajo.Save();
             return Json(new { success = true, message = "Se borro la compra" });
         }
+
         #endregion
     }
 }

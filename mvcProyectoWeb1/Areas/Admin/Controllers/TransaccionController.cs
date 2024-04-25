@@ -6,7 +6,7 @@ using mvcProyectoWeb1.Models;
 namespace mvcProyectoWeb1.Areas.Admin.Controllers
 {
 
-    [Area("Admin")]
+    [Area("admin")]
     public class TransaccionController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
@@ -21,8 +21,8 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         {
             return View();
         }
-        //[Authorize(Roles = "Administrador")]
-
+        
+        [Authorize(Roles = "admin")]
         [HttpGet]
         public IActionResult Create()
         {
@@ -30,6 +30,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Create(Transaccion transaccion)
         {
             if (ModelState.IsValid)
@@ -42,9 +43,10 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             }
             return View(transaccion);
         }
-        //[Authorize(Roles = "Administrador")]
 
+        
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(int id)
         {
             Transaccion transaccion = new Transaccion();
@@ -58,6 +60,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(Transaccion transaccion)
         {
 
@@ -76,6 +79,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return Json(new { data = _contenedorTrabajo.Transaccion.GetAll() });
         }
         [HttpDelete]
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Transaccion.Get(id);

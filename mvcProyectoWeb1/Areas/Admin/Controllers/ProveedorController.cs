@@ -5,8 +5,8 @@ using mvcProyectoWeb1.Models;
 
 namespace mvcProyectoWeb1.Areas.Admin.Controllers
 {
-    //[Authorize(Roles = "Administrador")]
-    [Area("Admin")]
+    
+    [Area("admin")]
     public class ProveedorController : Controller
     {
         private readonly IContenedorTrabajo _contenedorTrabajo;
@@ -21,12 +21,14 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View();
         }
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Create()
         {
             return View();
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Create(Proveedor proveedor)
         {
             if (ModelState.IsValid)
@@ -40,6 +42,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return View();
         }
         [HttpGet]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(int id)
         {
             Proveedor proveedor = new Proveedor();
@@ -53,6 +56,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin")]
         public IActionResult Edit(Proveedor proveedor)
         {
 
@@ -71,6 +75,7 @@ namespace mvcProyectoWeb1.Areas.Admin.Controllers
             return Json(new { data = _contenedorTrabajo.Proveedor.GetAll() });
         }
         [HttpDelete]
+        [Authorize(Roles = "admin")]
         public IActionResult Delete(int id)
         {
             var objFromDb = _contenedorTrabajo.Proveedor.Get(id);
