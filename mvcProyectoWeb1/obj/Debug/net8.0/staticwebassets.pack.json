@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mvcProyectoWeb1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mvcProyectoWeb1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\03d2ef76-1821-4fbb-b3a8-4ee8ca75e850.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\03d2ef76-1821-4fbb-b3a8-4ee8ca75e850.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\0745bc52-16a8-4553-9d88-24521d1b61d0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\0745bc52-16a8-4553-9d88-24521d1b61d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\0e6115ef-4bef-4e70-8a60-48d1370588a4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\0e6115ef-4bef-4e70-8a60-48d1370588a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\449478f7-c678-4052-870d-ac532ff7881d.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\449478f7-c678-4052-870d-ac532ff7881d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\5737dab8-5242-46ce-bdcd-d607cc40c286.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\5737dab8-5242-46ce-bdcd-d607cc40c286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\imagenes\\sliders\\7e70e3d6-7e3a-47ce-bca1-dbb493aa86f5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\7e70e3d6-7e3a-47ce-bca1-dbb493aa86f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Categoria.js",
+      "PackagePath": "staticwebassets\\js\\Categoria.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Compras.js",
+      "PackagePath": "staticwebassets\\js\\Compras.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Productos.js",
+      "PackagePath": "staticwebassets\\js\\Productos.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Proveedores.js",
+      "PackagePath": "staticwebassets\\js\\Proveedores.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Slider.js",
+      "PackagePath": "staticwebassets\\js\\Slider.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Transaccion.js",
+      "PackagePath": "staticwebassets\\js\\Transaccion.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mvcProyectoWeb1.props",
+      "PackagePath": "build\\mvcProyectoWeb1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mvcProyectoWeb1.props",
+      "PackagePath": "buildMultiTargeting\\mvcProyectoWeb1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mvcProyectoWeb1.props",
+      "PackagePath": "buildTransitive\\mvcProyectoWeb1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mvcProyectoWeb1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

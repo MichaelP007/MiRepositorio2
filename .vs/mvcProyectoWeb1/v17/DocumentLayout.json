@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\richard\\desktop\\todos los proyectos group\\4\\proyecto grupo\\mvcproyectoweb1\\mvcproyectoweb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\richard\\desktop\\todos los proyectos group\\4\\proyecto grupo\\mvcproyectoweb1\\mvcproyectoweb1\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\richard\\desktop\\todos los proyectos group\\4\\proyecto grupo\\mvcproyectoweb1\\mvcproyectoweb1\\areas\\admin\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\areas\\admin\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\richard\\desktop\\todos los proyectos group\\4\\proyecto grupo\\mvcproyectoweb1\\mvcproyectoweb1\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|c:\\users\\richard\\desktop\\todos los proyectos group\\4\\proyecto grupo\\mvcproyectoweb1\\mvcproyectoweb1\\wwwroot\\js\\compras.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8819C106-2208-4AE3-A428-AD7A5A58E0D4}|mvcProyectoWeb1\\mvcProyectoWeb1.csproj|solutionrelative:mvcproyectoweb1\\wwwroot\\js\\compras.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\Program.cs",
+              "ToolTip": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:07:41.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:04:00.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compras.js",
+              "DocumentMoniker": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Compras.js",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\wwwroot\\js\\Compras.js",
+              "ToolTip": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\wwwroot\\js\\Compras.js",
+              "RelativeToolTip": "mvcProyectoWeb1\\wwwroot\\js\\Compras.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-25T06:15:38.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T05:24:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\RICHARD\\Desktop\\todos los proyectos group\\4\\Proyecto grupo\\mvcProyectoWeb1\\mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "mvcProyectoWeb1\\Areas\\Admin\\Controllers\\CompraController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:05:48.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
